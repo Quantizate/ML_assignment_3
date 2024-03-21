@@ -1,0 +1,5 @@
+matplotlib
+torch
+scikit-learn
+streamlit
+numpy
